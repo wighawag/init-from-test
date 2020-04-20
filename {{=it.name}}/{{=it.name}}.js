@@ -1,3 +1,3 @@
-const projectName = "{{it.name}}";
+const projectName = "{{=it.name}}";
 
 console.log({projectName});

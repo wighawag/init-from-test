@@ -1,3 +1,3 @@
-const test = {{it.test}};
+const test = {{=it.test}};
 
-console.log({test});
+console.log({=test});
